@@ -1,0 +1,6 @@
+{
+  "binfile": "g:memdump.bin",
+  "keyfile": "g:keyfile.txt",
+  "checkfile":  "",
+  "family":  "SDS1X-E"
+}
